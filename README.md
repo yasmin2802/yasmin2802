@@ -1,7 +1,3 @@
-#Minha biografia
-##Quem sou?
-Me chamo Yasmin,sou aluna do colegio estadual do paraná
-##Frase:
 "The night is still young and so are we."
 
 - 👋 Hi, I’m @yasmin2802
